@@ -1,0 +1,61 @@
+{
+  "report_date": "2026-11-13",
+  "project": "marketplace-mobile-app",
+  "total_issues_tracked": 12,
+  "issues": [
+    {
+      "id": "SEN-801",
+      "error_type": "OutOfMemoryError",
+      "location": "ImageUploadActivity",
+      "platform": "Android",
+      "crash_count": 850,
+      "affected_users": 620,
+      "status": "unresolved"
+    },
+    {
+      "id": "SEN-802",
+      "error_type": "TimeoutError",
+      "location": "PaymentGateway",
+      "platform": "iOS",
+      "crash_count": 120,
+      "affected_users": 115,
+      "status": "unresolved"
+    },
+    {
+      "id": "SEN-803",
+      "error_type": "NullReferenceException",
+      "location": "UserProfileView",
+      "platform": "Android",
+      "crash_count": 45,
+      "affected_users": 12,
+      "status": "resolved"
+    },
+    {
+      "id": "SEN-804",
+      "error_type": "NetworkException",
+      "location": "FeedRefresh",
+      "platform": "iOS",
+      "crash_count": 340,
+      "affected_users": 290,
+      "status": "unresolved"
+    },
+    {
+      "id": "SEN-805",
+      "error_type": "KeyNotFoundException",
+      "location": "FilterSettings",
+      "platform": "Android",
+      "crash_count": 15,
+      "affected_users": 5,
+      "status": "unresolved"
+    },
+    {
+      "id": "SEN-806",
+      "error_type": "DatabaseLockException",
+      "location": "FavoritesSync",
+      "platform": "iOS",
+      "crash_count": 510,
+      "affected_users": 105,
+      "status": "unresolved"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+2026-11-10 10:00 INFO User logged in via iOS
+2026-11-10 10:05 ERROR App crashed on Android
+2026-11-10 10:15 INFO Item added to cart via Android
+2026-11-10 10:20 ERROR Payment failed on iOS
+2026-11-10 10:25 INFO User logged out via Web
+2026-11-10 10:30 ERROR Timeout exception on Android
