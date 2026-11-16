@@ -1,4 +1,4 @@
-# My Python & SQL Learning Journey 🚀
+# My Python & SQL Learning Journey 
 
 Hi! I'm Aliaksandra, a QA Engineer transitioning into Data Analytics Engineering. 
 This repository contains my practical projects and daily exercises as I master Python and relational databases.
