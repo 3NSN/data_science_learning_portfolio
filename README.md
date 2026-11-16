@@ -12,3 +12,6 @@ A Python script built to automate the analysis of raw server logs. It filters ou
 ### 2. [E-commerce Database Analysis (SQL)](./sql_marketplace)
 A relational database schema designed for an online marketplace platform (similar to Vinted). Includes DDL scripts for table creation (`users`, `items`), mock data insertion, and analytical SQL queries.
 * **Skills demonstrated:** Database design, table relationships (`FOREIGN KEY`), filtering, aggregation (`GROUP BY`, `SUM`, `AVG`), and multi-table joins (`JOIN`).
+
+#### [Sell-through Rate by Category — Synthetic Demo](./sql_marketplace/README.md)
+A beginner-friendly analysis of 100 synthetic listings using SQL, a CSV export, and one pandas/matplotlib chart. Measures the share marked sold in a single snapshot, not 30-day sell-through. Category differences are deliberately constructed for demonstration and do not represent real Vinted performance. See the project README for results, limitations, and running instructions.
